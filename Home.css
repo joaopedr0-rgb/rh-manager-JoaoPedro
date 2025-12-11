@@ -94,24 +94,7 @@ nav.navbar {
     margin-bottom: var(--spacing-lg);
 }
 
-.visao {
-    
-    width: 1920px;
-    height: 580px;
-    font-size: large;
-    display: grid;
-    padding: 30px;
-    grid-template-columns: repeat(3, 1fr);
-    justify-content: center;
-    align-items: center;
-    gap: 30px;
-    width: 100%; /* Defina uma largura que não seja 100% (se necessário) */
-    margin: 20px auto;
-    background-color: white; 
-    padding: 20px; 
-    border-radius: 8px;
-    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.1);
-}
+
 
 .visoes-gerais-card {
     width: 350px;
